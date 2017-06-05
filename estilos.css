@@ -203,6 +203,17 @@ MEDIA QUERIES
         height: 600px;
         justify-content: center;
     }
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #4d4d4d;
+    bottom: 0;
+    clear: both;
+    margin: 0 auto;
+    width: 100%;
+    height: 140px;
+    color: #fff;
+}
 
 
 
